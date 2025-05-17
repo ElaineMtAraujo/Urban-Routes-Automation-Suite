@@ -1,0 +1,9 @@
+BASE_URL = ''
+
+ORIGIN_ADDRESS = '601 East 2nd Street'
+DESTINATION_ADDRESS = '1st Street, 1300'
+USER_PHONE = '+1 321 321 32 32'
+CREDIT_CARD = '4321 8765 0091'
+SECURITY_CODE = '2222'
+DRIVER_NOTE = "Por favor, mantenha o ar-condicionado ligado."
+DESSERT_QUANTITY = 2
